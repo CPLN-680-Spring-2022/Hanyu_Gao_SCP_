@@ -1,0 +1,9 @@
+
+*.zip
+02_GIS/ID_Base_/0 Data/3 Raster/Landcover/49S_20200101-20210101.tif
+02_GIS/ID_Base_/0 Data/3 Raster/Landcover/49S_20200101-20210101.tif.aux.xml
+02_GIS/ID_Base_/0 Data/3 Raster/Landcover/50S_20200101-20210101.tif
+02_GIS/ID_Base_/Kmeans.gdb/a0000002d.gdbtablx
+02_GIS/ID_Base_/Kmeans.gdb/a0000002d.gdbtable
+02_GIS/ID_Base_/Kmeans.gdb/a0000005a.gdbtable
+02_GIS/ID_Base_/Neighborhood.gdb/a00000052.gdbtable

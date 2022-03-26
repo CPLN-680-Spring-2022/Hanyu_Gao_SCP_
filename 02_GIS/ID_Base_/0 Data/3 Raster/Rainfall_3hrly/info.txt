@@ -1,0 +1,9 @@
+Satellite precipitation data in GeoTiff format downloaded from UCI CHRS's DataPortal(chrsdata.eng.uci.edu).
+Data domain:
+ncols     27
+nrows    22
+xllcorner 110.250
+yllcorner 31.250
+cellsize 0.25
+NODATA_value -99
+Unit: mm

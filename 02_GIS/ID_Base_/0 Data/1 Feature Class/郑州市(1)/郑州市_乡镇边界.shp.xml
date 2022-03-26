@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220128</CreaDate><CreaTime>13244000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddRelate" Date="20220128" Time="132440">AddRelate 郑州市_乡镇边界 Name ZZ_census1.csv Name Relate1 "One to many"</Process></lineage></DataProperties></Esri></metadata>
